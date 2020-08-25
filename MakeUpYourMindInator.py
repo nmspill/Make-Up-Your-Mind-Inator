@@ -117,7 +117,6 @@ def Make_Up_Your_Mind_Inator():
 
         print('\n')
         done = outro_animation()
-        print('\n')
 
         if done.lower() == 'yes':
             options.clear()
