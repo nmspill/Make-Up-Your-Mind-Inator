@@ -1,3 +1,3 @@
 @echo off
-cd INSERT PATH
+cd *INSERT PATH HERE*
 python MakeUpYourMindInator.py
